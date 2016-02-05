@@ -1,0 +1,19 @@
+{
+  "name": "Scripts",
+  "homepage": "https://github.com/shwetachavda/comp2068-lab3",
+  "authors": [
+    "shwetachavda <shwetachavda13@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
