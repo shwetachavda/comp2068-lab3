@@ -12,12 +12,31 @@
 
 }
 .slider-caption{
-    
+    text-align: right;
+    position: absolute;
+    top: 100px;
+    right: 100px;
     color:crimson;
 	font-family: Papyrus;
-	font-size: 15px;
+	font-size: 30px;
 	font-style: normal;
 	font-variant: small-caps;
 	font-weight: bold;
 	line-height: 58.8px;
+}
+.slider-1{
+     text-align: right;
+    position: absolute;
+    bottom:  70px;
+    right: 100px;
+    color:red;
+	font-family: Papyrus;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: bold;
+	line-height: 58.8px;
+}
+.body{
+    background-color: #e44235;
 }
