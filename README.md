@@ -1,3 +1,3 @@
 #COMP2068- Lab3
 
-Exxample Express App using the express-generator for COMP2068 lab 3 
+favourite people app for comp2068 midterm using express 
